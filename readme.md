@@ -3,7 +3,7 @@
 ## About
 This integration add ability to receive notifications about  [Lviv City public works](https://1580.lviv.ua/) in Home Assistant.
 
-Інтеграція, що дозволяє отримувати сповіщення про ремонтні роботи та аварійні відключення у м. Львова в Home Assistant.
+Інтеграція, що дозволяє отримувати сповіщення про ремонтні роботи та аварійні відключення у Львові в Home Assistant.
 
 ## Installation
 ### HACS
