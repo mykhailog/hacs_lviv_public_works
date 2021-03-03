@@ -1,6 +1,6 @@
 {
   "domain": "lviv_public_works",
   "name": "Lviv Public Works",
-  "requirements": ["requests==2.24.0","beautifulsoup4==4.9.2"],
+  "requirements": ["requests==2.25.1","beautifulsoup4==4.9.2"],
   "codeowners": ["mykhailog"]
 }
